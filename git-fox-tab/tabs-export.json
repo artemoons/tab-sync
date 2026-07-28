@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-28T15:44:44.234Z",
+  "exportedAt": "2026-07-28T16:12:51.039Z",
   "windows": [
     {
       "id": 1,
-      "title": "firefox git tabs — Яндекс: нашлось 216 тыс. результатов — Mozilla Firefox",
+      "title": "Git Fox Tab — Settings — Mozilla Firefox",
       "incognito": false,
       "type": "normal",
       "state": "maximized",
@@ -114,7 +114,7 @@
           "url": "https://ya.ru/search/?text=firefox+git+tabs&from=os&clid=1836587&lr=67",
           "index": 9,
           "pinned": false,
-          "active": true,
+          "active": false,
           "groupId": 1785253464441001,
           "cookieStoreId": "firefox-default",
           "favIconUrl": "data:image/png;base64,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"
@@ -175,12 +175,12 @@
           "favIconUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNiAwQzcuMTYgMCAwIDcuMTYgMCAxNkMwIDIzLjA4IDQuNTggMjkuMDYgMTAuOTQgMzEuMThDMTEuNzQgMzEuMzIgMTIuMDQgMzAuODQgMTIuMDQgMzAuNDJDMTIuMDQgMzAuMDQgMTIuMDIgMjguNzggMTIuMDIgMjcuNDRDOCAyOC4xOCA2Ljk2IDI2LjQ2IDYuNjQgMjUuNTZDNi40NiAyNS4xIDUuNjggMjMuNjggNSAyMy4zQzQuNDQgMjMgMy42NCAyMi4yNiA0Ljk4IDIyLjI0QzYuMjQgMjIuMjIgNy4xNCAyMy40IDcuNDQgMjMuODhDOC44OCAyNi4zIDExLjE4IDI1LjYyIDEyLjEgMjUuMkMxMi4yNCAyNC4xNiAxMi42NiAyMy40NiAxMy4xMiAyMy4wNkM5LjU2IDIyLjY2IDUuODQgMjEuMjggNS44NCAxNS4xNkM1Ljg0IDEzLjQyIDYuNDYgMTEuOTggNy40OCAxMC44NkM3LjMyIDEwLjQ2IDYuNzYgOC44MiA3LjY0IDYuNjJDNy42NCA2LjYyIDguOTggNi4yIDEyLjA0IDguMjZDMTMuMzIgNy45IDE0LjY4IDcuNzIgMTYuMDQgNy43MkMxNy40IDcuNzIgMTguNzYgNy45IDIwLjA0IDguMjZDMjMuMSA2LjE4IDI0LjQ0IDYuNjIgMjQuNDQgNi42MkMyNS4zMiA4LjgyIDI0Ljc2IDEwLjQ2IDI0LjYgMTAuODZDMjUuNjIgMTEuOTggMjYuMjQgMTMuNCAyNi4yNCAxNS4xNkMyNi4yNCAyMS4zIDIyLjUgMjIuNjYgMTguOTQgMjMuMDZDMTkuNTIgMjMuNTYgMjAuMDIgMjQuNTIgMjAuMDIgMjYuMDJDMjAuMDIgMjguMTYgMjAgMjkuODggMjAgMzAuNDJDMjAgMzAuODQgMjAuMyAzMS4zNCAyMS4xIDMxLjE4QzI3LjQyIDI5LjA2IDMyIDIzLjA2IDMyIDE2QzMyIDcuMTYgMjQuODQgMCAxNiAwVjBaIiBmaWxsPSIjMjQyOTJFIi8+Cjwvc3ZnPgo="
         },
         {
-          "id": 170,
+          "id": 197,
           "title": "Git Fox Tab — Settings",
-          "url": "moz-extension://21d408c4-0a3b-4bf4-bd7f-2fb98eaa7846/options/options.html",
+          "url": "moz-extension://f9c4e205-fb14-4f6b-b6cb-a83017797f43/options/options.html",
           "index": 15,
           "pinned": false,
-          "active": false,
+          "active": true,
           "groupId": -1,
           "cookieStoreId": "firefox-default",
           "favIconUrl": null
