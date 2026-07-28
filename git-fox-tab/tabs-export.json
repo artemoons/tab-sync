@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-28T15:43:37.058Z",
+  "exportedAt": "2026-07-28T15:44:44.234Z",
   "windows": [
     {
       "id": 1,
-      "title": "Git Fox Tab — Settings — Mozilla Firefox",
+      "title": "firefox git tabs — Яндекс: нашлось 216 тыс. результатов — Mozilla Firefox",
       "incognito": false,
       "type": "normal",
       "state": "maximized",
@@ -114,8 +114,8 @@
           "url": "https://ya.ru/search/?text=firefox+git+tabs&from=os&clid=1836587&lr=67",
           "index": 9,
           "pinned": false,
-          "active": false,
-          "groupId": -1,
+          "active": true,
+          "groupId": 1785253464441001,
           "cookieStoreId": "firefox-default",
           "favIconUrl": "data:image/png;base64,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"
         },
@@ -126,7 +126,7 @@
           "index": 10,
           "pinned": false,
           "active": false,
-          "groupId": -1,
+          "groupId": 1785253464441001,
           "cookieStoreId": "firefox-default",
           "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFNElEQVRYR8WXW2wUVRjHf2d2dku7W7bQaqEIAhKQYm1JfJBLUR9MDEqAPqCJl0AClqhBjA/4oEFMRGM0kpAI6oPGBC8xSi0Go4mhQJFIFIoWQYhCa7S0QO/b2+7MZ87M7uzs9pqI4deczOnZ7zvff875zmUUE0REKoA1wL3APd4PmRwG6oAapVSD1zoGyquNgoisB7YC5V7jxDgN7FJKfei1jMCoAkRkNqCdR3vbiaJHZb1S6pLX4mNEASKih1oHj3qN/42upIgaryXJMAHJIf/Aa/DzQz0cq4dfGqCtFUQ3Gm43xdOQ8nJYVolacnfKI5sN2VOSISD55vu9hhSNJ+HtndDaCnHT9RLlFhUAAs5TjACin9OmY2x9ClW2yOvCx1r/SHgCknOuMzdz2D9/HWq+gN6Q+/9QKB1cuystyC2CQgJBxAg6pmrVAxgbH3f90ujpqEjlhF+AXj6ZCffxC3D0a+jOhaFAsowhIDUKKQFzZmG8+hKE85IdehxWSunl7AoYcd6/2wI/74e+IFyNQL8JAyb05oBtgKVdTTB0YNOpi6GFGI6AMYKncPIhJUAPfXqdt9VC3WPQnA+TbGjNh5YwGALmXKjaBEsqIRxx7WMxOP4j9r7P4Gon3DZ3vOCa00qpCpXc4U55zZoj8+HyZYgFIRZyBfQG4c4qWLctHTibWAz56iBq9YPjBU+xWAt4GdjuNXUcgN/XQZ8BA7oE4FoI8qvgkb2e2XVihxaQmXwXn4SufZAAepT7jE2BlY0Qul77ksdhLcDZTjzOlsJgkxs4VQqfhoVveCZ+fmr2qpmIzvB017peElVMK/AWnsMwAdKQ62Sycpaa2xHzvoHJlZ6Nn8WvedVMst5Ls7kSqivHFTDJ2dmU3uFsG1EKVaqH/1bPxs+oAvzoEEqxebmML8A+FUKpoCPA+6n0DCo0y61nMSEBSaqXu6PgZ7iAk6YT3CaABVgI5rxvCeav8Gz8aAGCnZwrjXL+0qTrExPQOA8ZaqJX7zkqQLttkVu8haKZb3k2fvYe1e7+LtyAtb9Ci971JyAgYxkmLm3AuvYRAxgMCgwCV40CysovYAYKUmZj0jMAK98RerWzgyvi/UfhrsyZdJZhxkYU76yh7UIVHQI2ijaBZjtI4dQ1rF7wacpsTHYdj/HuUYVlWISsEEoMRAmN25InahpnIxq2FZ9qmE3zQBM5KNoFLskk2iWXhTc9wcNzXyFi5nu22ew58zfbj/RiWjnYyiY8FCUnHmbNHQF2rnRPSR+LnbHJPoy6u+s49Nt9dIqiSwwuSph2O48OCTMUKmfj7GruL1pG1AynXKht+YPd585T39JPqH8mZiKXYCLPERCwghzalM+MqD85k4eRro10HNddfI5D/+yhS4I0SZRuCdMjYVqtYgYJESeHuB0hEphMZ9xC4lEYnA4SQPXPJJAIE0qECQ5OpbqskB0rhuVP+jjWZCejZt/5ar5sraVFCrHEpMOeQo8UkUBhSQ42QRK2nihBrDD2wHRQNgyWYPaXYBkJKiK3cGxtqddnkswLiWa0K9nu88/yyeXv6bPz6HNGoYiEmFiYjgBb9IYVcARIIoxYEUcAiTCrSubw3tIyoiF9b/QY+UqmGe1SeqLzJM+ffZM/+7vplyiCgeiLKArb1rcgvWRyECsXiU8lIjN48fYlPLNgvteHj5EvpSlGyocUB6+c4MCVBuo7zvHXwDXHXcRwpmByoICl0QpWFS/ioZvLiAZzPD8fY1/LU9zQDxOfiBv3aebnhn2cZvN/fZ7/C+T0M/VuWOGOAAAAAElFTkSuQmCC"
         },
@@ -154,8 +154,8 @@
         },
         {
           "id": 161,
-          "title": "artemoons/tab-sync",
-          "url": "https://github.com/artemoons/tab-sync",
+          "title": "tab-sync/git-fox-tab/tabs-export.json at main · artemoons/tab-sync",
+          "url": "https://github.com/artemoons/tab-sync/blob/main/git-fox-tab/tabs-export.json",
           "index": 13,
           "pinned": false,
           "active": false,
@@ -180,7 +180,7 @@
           "url": "moz-extension://21d408c4-0a3b-4bf4-bd7f-2fb98eaa7846/options/options.html",
           "index": 15,
           "pinned": false,
-          "active": true,
+          "active": false,
           "groupId": -1,
           "cookieStoreId": "firefox-default",
           "favIconUrl": null
@@ -188,7 +188,15 @@
       ]
     }
   ],
-  "groups": [],
+  "groups": [
+    {
+      "id": 1785253464441001,
+      "name": "",
+      "color": "blue",
+      "collapsed": false,
+      "windowId": 1
+    }
+  ],
   "containers": [
     {
       "cookieStoreId": "firefox-container-1",
